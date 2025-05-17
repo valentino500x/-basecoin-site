@@ -52,3 +52,62 @@
   </div>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BaseCoin</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: #0052FF;
+      color: #fff;
+      text-align: center;
+    }
+    .container {
+      padding: 50px 20px;
+    }
+    .logo {
+      width: 150px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 24px;
+      margin-bottom: 30px;
+    }
+    .buttons a {
+      display: inline-block;
+      margin: 10px;
+      padding: 15px 25px;
+      background-color: #fff;
+      color: #0052FF;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+    .buttons a:hover {
+      background-color: #e0e0e0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="Basecoin" alt="BaseCoin Logo" class="logo" />
+    <h1>BASECOIN</h1>
+    <p>Dalla base alla vetta.</p>
+    <p>1 BASE = 1 BASECOIN</p>
+    <div class="buttons">
+      <a href="https://pump.fun/BC-XXXX" target="_blank">Compra su Pump.fun</a>
+      <a href="https://x.com/punk1btc" target="_blank">Twitter</a>
+      <a href="https://t.me/Valebotx" target="_blank">Telegram</a>
+    </div>
+  </div>
+</body>
+</html>
